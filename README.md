@@ -1,7 +1,7 @@
 # BitsnBobs
 A number of different files with different functions that may be useful as building blocks
 
-1. Simple_Countdown_Timer_GUI.py
+1. SimpleCountdownTimer_GUI.py
   Set the desired wait time and start the countdown
   When the time has elapsed a message is displayed to insert the next part and continue measuring
     Pressing OK resets the counter and begins the countdown again
