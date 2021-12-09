@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+GUI for a simple countdown timer
+Set the desired time, press start and the countdown will begin
+Possible to interact with the GUI throughout the countdown process and pressing start again will reset the counter
+Created on Wed Dec 8 15:00:00 2021
+
+@author: Brian McCarthy
+"""
 import traceback
 import time
 import sys
